@@ -34,3 +34,7 @@ Browse employees, search/filter, compare salaries, and view locations on a map.
 
 - Salary Chart
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7b3597a-1096-454f-9c8b-16cb96d3bb45" />
+
+## Screen Recording
+Watch the full working app:  
+[Screen Recording] (https://drive.google.com/file/d/1YqqR7HdwmCP6TwBlEC1QomTRy_gprFk2/view?usp=drive_link)
